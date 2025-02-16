@@ -1,0 +1,21 @@
+scenario 1: existing project
+- integrate git 
+-upload to GitHub
+
+git init (turn it into git repo)
+create a commit 
+create a GitHub repository
+git push
+
+
+/************/
+git init 
+git status
+git add .
+git commit -m ""
+
+//new repo on GitHub
+
+link repo: 
+git remote add origin url (https)
+git push origin master (upload code to GitHub)
