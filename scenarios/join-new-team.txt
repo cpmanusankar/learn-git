@@ -1,0 +1,8 @@
+Scenario 3: joined a team
+1. Download the team's code.
+2. Contribute to the code.
+
+-git clone the team's repo
+-work with the code as normal
+
+git clone url name
