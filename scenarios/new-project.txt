@@ -1,0 +1,10 @@
+Scenario : New project
+A. 
+1. create some new code.
+2. git init
+3. create GitHub repository
+4. git push
+
+B.
+1.create new repo on GitHub
+2. git clone
